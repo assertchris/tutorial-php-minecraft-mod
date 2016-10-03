@@ -1,0 +1,7 @@
+{
+    "require": {
+        "amphp/amp": "^1.2",
+        "amphp/file": "^0.1.3",
+        "theory/builder": "^0.0.1"
+    }
+}
